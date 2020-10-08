@@ -12,9 +12,10 @@ title: My Website
 author: Some Person
 
 # --- List of links in the navigation bar --- #
-
+  
 navbar-links:
   About Me: "aboutme"
+  More About Me: "pages/aboutme/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
